@@ -1,0 +1,33 @@
+{
+  "globalConfig": {
+    "limitSize": "500",
+    "block": true
+  },
+  "specialConfig": {
+    "B.zip": {
+      "limitSize": "500",
+      "block": false,
+      "deadline": "2023-12-29"
+    },
+    "C.zip": {
+      "limitSize": "500",
+      "block": false,
+      "deadline": "2023-12-30"
+    },
+    "E.zip": {
+      "limitSize": "500",
+      "block": false,
+      "deadline": "2023-12-30"
+    },
+    "F.zip": {
+      "limitSize": "500",
+      "block": false,
+      "deadline": "2024-01-04"
+    },
+    "G.zip": {
+      "limitSize": "500",
+      "block": false,
+      "deadline": "2024-01-08"
+    }
+  }
+}
